@@ -1,0 +1,26 @@
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+
+# VSCode
+.vscode
+*.code-workspace
+
+# ESP-IDF
+sdkconfig*
+build
+managed_components
+dependencies.lock
+
+# Debug
+debug.*
+debug_custom.*
+
+# Mac OS
+.DS_Store
+
+# Dev
+*.heic
+*.sch
+*schematic.pdf
